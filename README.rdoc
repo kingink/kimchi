@@ -1,0 +1,5 @@
+= kimchi is a bare bone command line driven task manager
+
+== Note:
+
+Personal tool to help me avoid pen and paper
